@@ -1,0 +1,2 @@
+# Pascal
+Bahasa Pemrograman Pascal
